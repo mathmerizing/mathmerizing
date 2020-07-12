@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Julian Roth (a.k.a. math- ~~mes~~merizing)
+
+Find out more about me and my projects on my [personal website](https://julianroth.org/).
 
 <!--
 **mathmerizing/mathmerizing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
